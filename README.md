@@ -7,6 +7,7 @@ The **ZK SNARK Designer** project involves designing a zkSNARK circuit to implem
 ### Objective
 
 Create a zkSNARK circuit that implements logical operations and proves knowledge of specific inputs that yield a given output. Specifically, the goal is to prove knowledge of inputs A (0) and B (1) that produce an output of 0.
+![alt text](<Logic gates.png>)
 
 
 ## Tools Used
